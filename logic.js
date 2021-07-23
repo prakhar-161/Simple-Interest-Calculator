@@ -5,5 +5,5 @@ function Calculate()
     let r = document.getElementById('rate').value;
     let si = (p*t*r)/100;
 
-    document.getElementById('result').innerHTML="Your Simple Interest is: " + si; 
+    document.getElementById('result').innerHTML=Simple Interest is: " + si; 
 }
